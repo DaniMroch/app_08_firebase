@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102048503396",
+    "project_id": "app-fatec-lista-tarefas-d64c0",
+    "storage_bucket": "app-fatec-lista-tarefas-d64c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102048503396:android:6f1fb7e2dede4f826e7171",
+        "android_client_info": {
+          "package_name": "com.example.app_08_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxCtBxenW_7KGOZDp9OlgFOjHjE5ApXxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
